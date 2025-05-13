@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 .env
+=======
+.env
+>>>>>>> 09d24da (Add initial project structure with .gitignore, Python version, main script, and dependencies)
