@@ -4,7 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = [    
+dependencies = [
+    "isort>=6.0.1",
+    "langchain-google-genai>=2.1.4",
     "langchain-mcp-adapters>=0.0.11",
     "langchain-openai>=0.3.16",
     "langgraph>=0.4.3",
